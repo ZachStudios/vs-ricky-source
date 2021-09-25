@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ricky_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ricky Talk0000" x="0" y="0" width="138" height="252" pivotX="-23.35" pivotY="-16.1"/>
+	<SubTexture name="Ricky Talk0001" x="0" y="0" width="138" height="252"/>
+	<SubTexture name="Ricky Talk0002" x="138" y="0" width="138" height="252"/>
+	<SubTexture name="Ricky Talk0003" x="138" y="0" width="138" height="252"/>
+	<SubTexture name="Ricky Talk0004" x="276" y="0" width="138" height="252"/>
+</TextureAtlas>

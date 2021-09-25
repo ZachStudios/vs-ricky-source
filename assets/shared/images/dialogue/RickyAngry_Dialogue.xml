@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RickyAngry_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ricky Talk Mad0000" x="0" y="0" width="139" height="252" pivotX="-22.3" pivotY="-16.1"/>
+	<SubTexture name="Ricky Talk Mad0001" x="0" y="252" width="139" height="252"/>
+</TextureAtlas>
