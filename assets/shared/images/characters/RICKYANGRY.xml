@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RICKYANGRY.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ricky Down Note0000" x="0" y="0" width="143" height="238" pivotX="44.05" pivotY="131"/>
+	<SubTexture name="Ricky Down Note0001" x="0" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0002" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0003" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0004" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0005" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0006" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0007" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0008" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0009" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0010" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0011" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0012" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0013" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0014" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0015" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0016" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Down Note0017" x="143" y="0" width="143" height="238"/>
+	<SubTexture name="Ricky Idle Dance0000" x="286" y="0" width="137" height="254" pivotX="0" pivotY="0"/>
+	<SubTexture name="Ricky Idle Dance0001" x="423" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0002" x="560" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0003" x="697" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0004" x="834" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0005" x="0" y="254" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0006" x="137" y="254" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0007" x="274" y="254" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0008" x="834" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0009" x="411" y="254" width="137" height="254"/>
+	<SubTexture name="Ricky Idle Dance0010" x="560" y="0" width="137" height="254"/>
+	<SubTexture name="Ricky Left Note0000" x="548" y="254" width="137" height="250" pivotX="54.2" pivotY="99.9"/>
+	<SubTexture name="Ricky Left Note0001" x="548" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0002" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0003" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0004" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0005" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0006" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0007" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0008" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0009" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0010" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0011" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0012" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0013" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0014" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0015" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0016" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0017" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Left Note0018" x="685" y="254" width="137" height="250"/>
+	<SubTexture name="Ricky Right Note0000" x="822" y="254" width="137" height="251" pivotX="54.2" pivotY="97.25"/>
+	<SubTexture name="Ricky Right Note0001" x="822" y="254" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0002" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0003" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0004" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0005" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0006" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0007" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0008" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0009" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0010" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0011" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0012" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0013" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0014" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0015" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0016" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0017" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Right Note0018" x="0" y="508" width="137" height="251"/>
+	<SubTexture name="Ricky Up Note0000" x="137" y="508" width="139" height="251" pivotX="58.7" pivotY="84.25"/>
+	<SubTexture name="Ricky Up Note0001" x="137" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0002" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0003" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0004" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0005" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0006" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0007" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0008" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0009" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0010" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0011" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0012" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0013" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0014" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0015" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0016" x="276" y="508" width="139" height="251"/>
+	<SubTexture name="Ricky Up Note0017" x="276" y="508" width="139" height="251"/>
+</TextureAtlas>
