@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ricky Idle Dance"
+		},
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ricky Down Note"
+		},
+		{
+			"offsets": [
+				-5,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ricky Left Note"
+		},
+		{
+			"offsets": [
+				5,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ricky Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ricky Up Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/final-fucking-form",
+	"position": [
+		180,
+		420
+	],
+	"healthicon": "final",
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		25,
+		25
+	],
+	"camera_position": [
+		-140,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}
