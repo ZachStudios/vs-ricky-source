@@ -1,0 +1,3 @@
+psychic:left bf:right
+:0:talk:0.05:normal:test
+:1:talk:0.05:normal:test
