@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rickyangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude what the fuck."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rickyangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i was supposed to win!!!!!! not you!!! (you are a poopy head)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skill issue + ratio + you fell off + cry about it :I"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "rickyangry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have your address and i can go to your house and personally kill each and every family member in your house and you can't do anything about it and then i'll fucking kill you too you stupid ass shortstack peice of shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "edgy :)"
+		}
+	]
+}
